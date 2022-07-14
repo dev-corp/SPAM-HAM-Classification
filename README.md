@@ -27,7 +27,14 @@ This project is divided into two parts:
        - we will train a model using train data, here we used *Naive Bayes Classifier* for SPAM/HAM Classification.\
        - After Training we validate a model using Test data.\
        - Observe the metrics
+
+## Result
+![image](https://user-images.githubusercontent.com/70332477/179002380-3a024d4c-0b2f-4e21-b454-36cd09cab8a4.png)
+![image](https://user-images.githubusercontent.com/70332477/179002396-5b2578d8-4820-4685-ad9b-180a8bd5eb1a.png)
+![image](https://user-images.githubusercontent.com/70332477/179002411-0dffbda8-c5e2-4ec5-8ebf-6962efb79a5f.png)
+
+
              
 ## Installation  
-The Code is written in Python 3.7
+The Code is written in Python 3.9
 
