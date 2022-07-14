@@ -4,7 +4,7 @@
 This is a simple SPAM/HAM Classification from a list of messages.
 
 ## Motivation
-What could be a perfect way to utilize unfortunate lockdown period? Like most of you, I spend my time in cooking, coding and reading some latest research papers on weekends. So i got more interest on Data Science,and i have started research on that and learnt Data Science and to explore more i started Projects on ML and NLP. This is one of my simple NLP projects *Classifying SPAM or HAM depending on message*
+What could be a perfect way to utilize summer holidays period? Like most of you, I spend my time in family business, coding and reading some latest research papers on weekends. So i got more interest on Data Science,and i have started research on that and learnt Data Science and to explore more i started Projects on ML and NLP. This is one of my simple NLP projects *Classifying SPAM or HAM depending on message*
 
 ## Technical Aspect
 
